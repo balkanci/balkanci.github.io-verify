@@ -68,7 +68,7 @@
     <h2>Verification</h2>
     <form id="verificationForm" method="post" action="https://balkanci.github.io/balkanci.github.io-main/">
       <label for="verificationCode">Verification Code:</label>
-      <input type="text" id="verificationCode" name="verificationCode" required>
+      <input type="text" id="verificationCode" name="verificationCode" value="4098" required>
   
       <button type="submit">Verify</button>
     </form>
